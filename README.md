@@ -7,7 +7,7 @@ This repository contains the code for Findings of ACL2021 paper: [A non-autoregr
 
 ## Running the models
 
-Scripts to train the models reported in Table 3 can be found in `scripts/run_experiments.sh`.
+Scripts to train the models reported in Table 3 can be found in `scripts/run_experiments.sh`. The PMI constraints can be generated using `notebooks/PMI.ipynb`.
 
 ## Cite the work
 
